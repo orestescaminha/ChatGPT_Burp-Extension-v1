@@ -71,3 +71,4 @@ Vantagens da Nova Arquitetura
 ✅ Fácil manutenção: Atualize a SDK do OpenAI sem quebrar Burp
 ✅ Escalabilidade: Serviço pode ser containerizado ou hospedado remotamente
 ✅ Segurança: API Key fica apenas no serviço Python, nunca em Jython
+info about this project
