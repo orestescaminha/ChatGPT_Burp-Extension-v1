@@ -8,7 +8,7 @@
                              |
                              V
                     +----------------+
-                    | Python 3.13    |
+                    | Python 3.12    |
                     | AI Service     |
                     | FastAPI/Flask  |
                     +--------+-------+
@@ -27,8 +27,8 @@ bash
 
 ## Clone o repositório
 ```
-git clone https://github.com/orestescaminha/ChatGPT_Burp-Extension.git
-cd ChatGPT_Burp-Extension
+git clone https://github.com/orestescaminha/ChatGPT_Burp-Extension-v1.git
+cd ChatGPT_Burp-Extension-v1
 ```
 
 ## Crie um ambiente virtual
