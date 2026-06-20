@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 # burp_extension.py
 from burp import IBurpExtender, ITab, IContextMenuFactory
 from java.io import PrintWriter
