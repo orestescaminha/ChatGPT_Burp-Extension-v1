@@ -65,9 +65,14 @@ Será executado em http://127.0.0.1:8000
 
 ### Vantagens da Arquitetura
 ✅ Compatibilidade: Jython 2.7 só faz requisições HTTP simples
+
 ✅ Modernidade: Python 3.12 + OpenAI SDK completo no serviço
+
 ✅ Separação de responsabilidades: Burp = UI, Python = Lógica
+
 ✅ Fácil manutenção: Atualize a SDK do OpenAI sem quebrar Burp
+
 ✅ Escalabilidade: Serviço pode ser containerizado ou hospedado remotamente
+
 ✅ Segurança: API Key fica apenas no serviço Python, nunca em Jython
 info about this project
