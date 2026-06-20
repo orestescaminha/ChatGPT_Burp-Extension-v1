@@ -64,7 +64,6 @@ Será executado em http://127.0.0.1:8000
     Certifique-se de que o serviço Python está rodando em localhost:8000
 
 ### Vantagens da Arquitetura
-
 ✅ Compatibilidade: Jython 2.7 só faz requisições HTTP simples
 ✅ Modernidade: Python 3.12 + OpenAI SDK completo no serviço
 ✅ Separação de responsabilidades: Burp = UI, Python = Lógica
