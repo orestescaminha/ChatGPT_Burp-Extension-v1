@@ -63,12 +63,12 @@ O Jython permite que o Burp Suite execute extensões baseadas em Python. Você p
 Passos para baixar e configurar o Jython:
 ```
 Acesse a página de downloads do Jython (https://www.jython.org/download).
-Baixe o arquivo `.jar` independente do Jython (por exemplo, `jython-standalone-2.7.4.jar`).
+Baixe o arquivo .jar independente do Jython (por exemplo, jython-standalone-2.7.4.jar).
 Abra o Burp Suite.
-Acesse a aba `Extensions` no Burp Suite.
-Na aba `Options`, role para baixo até a seção **Python Environment**.
-Clique em **Select File** e escolha o arquivo `jython-standalone-2.7.4.jar` que você acabou de baixar.
-Clique em **Apply** para carregar o ambiente Jython no Burp Suite.
+Acesse a aba Extensions no Burp Suite.
+Na aba Options, role para baixo até a seção Python Environment*.
+Clique em Select File e escolha o arquivo jython-standalone-2.7.4.jar que você acabou de baixar.
+Clique em Apply para carregar o ambiente Jython no Burp Suite.
 ```
 ---
 
