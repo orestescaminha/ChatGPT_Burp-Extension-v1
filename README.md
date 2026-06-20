@@ -65,6 +65,8 @@ Será executado em http://127.0.0.1:8000
 
 Finalmente, configure o caminho de 'jython-standalone-2.7.4.jar' no Burp
 
+---
+
 ### Vantagens da Arquitetura
 ✅ Compatibilidade: Jython 2.7 só faz requisições HTTP simples
 
