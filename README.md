@@ -56,7 +56,23 @@ python ai_service/main.py
 ```
 Será executado em http://127.0.0.1:8000
 
-## 2. Carregue a Extensão no Burp
+---
+
+## 2. Baixe e importe o arquivo Jython standalone JAR
+O Jython permite que o Burp Suite execute extensões baseadas em Python. Você precisará baixá-lo e configurá-lo no Burp Suite.
+Passos para baixar e configurar o Jython:
+```
+Acesse a página de downloads do Jython (https://www.jython.org/download).
+Baixe o arquivo `.jar` independente do Jython (por exemplo, `jython-standalone-2.7.4.jar`).
+Abra o Burp Suite.
+Acesse a aba `Extensions` no Burp Suite.
+Na aba `Options`, role para baixo até a seção **Python Environment**.
+Clique em **Select File** e escolha o arquivo `jython-standalone-2.7.4.jar` que você acabou de baixar.
+Clique em **Apply** para carregar o ambiente Jython no Burp Suite.
+```
+---
+
+## 3. Carregue a Extensão no Burp
 
     Vá em Extender > Extensions > Add
     Tipo: Python
