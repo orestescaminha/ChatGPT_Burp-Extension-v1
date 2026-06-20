@@ -59,7 +59,8 @@ Será executado em http://127.0.0.1:8000
 ---
 
 ## 2. Baixe e importe o arquivo Jython standalone JAR
-O Jython permite que o Burp Suite execute extensões baseadas em Python. Você precisará baixá-lo e configurá-lo no Burp Suite.
+Jython (incluindo jython-standalone-2.7.4.jar) é compatível com Python 2.7, não com Python 3. Aqui, ele não executa o SDK da OpenAI dentro do Burp. Em vez disso, o Burp atua como cliente e um processo Python 3 separado faz a comunicação com a API.
+Você precisará baixá-lo e configurá-lo no Burp Suite.
 Passos para baixar e configurar o Jython:
 ```
 Acesse a página de downloads do Jython (https://www.jython.org/download).
