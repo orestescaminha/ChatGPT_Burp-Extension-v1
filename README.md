@@ -79,7 +79,6 @@ Clique em Apply para carregar o ambiente Jython no Burp Suite.
     Arquivo: burp_extension.py
     Certifique-se de que o serviço Python está rodando em localhost:8000
 
-
 ---
 
 ### Vantagens da Arquitetura
